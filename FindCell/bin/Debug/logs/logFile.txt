@@ -1,0 +1,36 @@
+
+08-Jun-18 02:36:29: Error occured during searching a word in excel file.\nError meesage: Exception of type 'System.Exception' was thrown.
+StackTrace path:    at FindCell.Form1.FindWordInExcel(String word, String fileName) in C:\Development\FindCell\FindCell\Form1.cs:line 31
+08-Jun-18 02:36:33: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:36:34: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:36:35: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:36:49: Error occured during searching a word in excel file.\nError meesage: Exception of type 'System.Exception' was thrown.
+StackTrace path:    at FindCell.Form1.FindWordInExcel(String word, String fileName) in C:\Development\FindCell\FindCell\Form1.cs:line 31
+08-Jun-18 02:37:00: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:37:21: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:37:28: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:38:02: Error occured during searching a word in excel file.\nError meesage: Exception of type 'System.Exception' was thrown.
+StackTrace path:    at FindCell.Form1.FindWordInExcel(String word, String fileName) in C:\Development\FindCell\FindCell\Form1.cs:line 31
+08-Jun-18 02:38:07: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:38:10: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:38:12: Error occured while releasing object.\nError meesage: Object reference not set to an instance of an object.
+StackTrace path:    at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at FindCell.Form1.releaseObject(Object obj) in C:\Development\FindCell\FindCell\Form1.cs:line 66
+08-Jun-18 02:39:08: Error occured during searching a word in excel file.\nError meesage: Exception of type 'System.Exception' was thrown.
+StackTrace path:    at FindCell.Form1.FindWordInExcel(String word, String fileName) in C:\Development\FindCell\FindCell\Form1.cs:line 31

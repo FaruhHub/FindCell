@@ -1,0 +1,10 @@
+C:\Development\FindCell\FindCell\bin\Debug\FindCell.exe.config
+C:\Development\FindCell\FindCell\bin\Debug\FindCell.exe
+C:\Development\FindCell\FindCell\bin\Debug\FindCell.pdb
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.csprojResolveAssemblyReference.cache
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.csproj.ResolveComReference.cache
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.Form1.resources
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.Properties.Resources.resources
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.csproj.GenerateResource.Cache
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.exe
+C:\Development\FindCell\FindCell\obj\Debug\FindCell.pdb
